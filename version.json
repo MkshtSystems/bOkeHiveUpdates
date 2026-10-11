@@ -1,1 +1,6 @@
-{echo   "versionCode": 1,echo   "versionName": "1.0.0",echo   "downloadUrl": "https://github.com/mkshtsystems/bOkeHiveUpdates/releases/latest",echo   "releaseNotes": "Initial release."echo }
+{
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "downloadUrl": "https://github.com/mkshtsystems/bOkeHiveUpdates/releases/latest",
+    "releaseNotes": "Initial release."
+}
